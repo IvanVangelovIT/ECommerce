@@ -1,0 +1,23 @@
+﻿@model ECommerce.Web.ViewModels.Products.ProductsViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form method="post" asp-action="Post">
+        <label>Name</label>
+        <input asp-for="@Model.Product.Name" />
+        <label>Description</label>
+        <input asp-for="@Model.Product.Description" />
+        <label>Value</label>
+        <input asp-for="@Model.Product.Value" />
+        <input type="submit" value="Save Product" />
+    </form>
+</div>
+
+@foreach (var product in Model.Products)
+{
+    <p>
+        @product.Name -@product.Description - @product.Value
+    </p>
+}

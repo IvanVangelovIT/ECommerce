@@ -1,0 +1,17 @@
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Web.ViewModels.deps.json
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Web.ViewModels.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ref\ECommerce.Web.ViewModels.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Web.ViewModels.pdb
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.AssemblyInfo.cs
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ref\ECommerce.Web.ViewModels.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.pdb
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Data.Models.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Services.Mapping.dll
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Data.Models.pdb
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\bin\Debug\net5.0\ECommerce.Services.Mapping.pdb
+C:\Users\IT\source\repos\ECommerce\ECommerce.Web.ViewModels\obj\Debug\net5.0\ECommerce.Web.ViewModels.csproj.CopyComplete
