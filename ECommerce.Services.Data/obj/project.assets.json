@@ -1687,6 +1687,20 @@
         "runtime": {
           "bin/placeholder/ECommerce.Services.Mapping.dll": {}
         }
+      },
+      "ECommerce.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ECommerce.Data.Models": "1.0.0",
+          "ECommerce.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ECommerce.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -6186,12 +6200,18 @@
       "type": "project",
       "path": "../ECommerce.Services.Mapping/ECommerce.Services.Mapping.csproj",
       "msbuildProject": "../ECommerce.Services.Mapping/ECommerce.Services.Mapping.csproj"
+    },
+    "ECommerce.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../ECommerce.Web.ViewModels/ECommerce.Web.ViewModels.csproj",
+      "msbuildProject": "../ECommerce.Web.ViewModels/ECommerce.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "ECommerce.Data >= 1.0.0",
-      "ECommerce.Services.Mapping >= 1.0.0"
+      "ECommerce.Services.Mapping >= 1.0.0",
+      "ECommerce.Web.ViewModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6226,6 +6246,9 @@
             },
             "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
               "projectPath": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj"
+            },
+            "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj": {
+              "projectPath": "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj"
             }
           }
         }

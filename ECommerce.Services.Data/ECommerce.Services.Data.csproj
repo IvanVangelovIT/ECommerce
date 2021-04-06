@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ECommerce.Data\ECommerce.Data.csproj" />
     <ProjectReference Include="..\ECommerce.Services.Mapping\ECommerce.Services.Mapping.csproj" />
+    <ProjectReference Include="..\ECommerce.Web.ViewModels\ECommerce.Web.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

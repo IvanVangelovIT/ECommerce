@@ -9,7 +9,8 @@
       "ECommerce.Services.Data/1.0.0": {
         "dependencies": {
           "ECommerce.Data": "1.0.0",
-          "ECommerce.Services.Mapping": "1.0.0"
+          "ECommerce.Services.Mapping": "1.0.0",
+          "ECommerce.Web.ViewModels": "1.0.0"
         },
         "runtime": {
           "ECommerce.Services.Data.dll": {}
@@ -1213,6 +1214,15 @@
         "runtime": {
           "ECommerce.Services.Mapping.dll": {}
         }
+      },
+      "ECommerce.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "ECommerce.Data.Models": "1.0.0",
+          "ECommerce.Services.Mapping": "1.0.0"
+        },
+        "runtime": {
+          "ECommerce.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1982,6 +1992,11 @@
       "sha512": ""
     },
     "ECommerce.Services.Mapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerce.Web.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

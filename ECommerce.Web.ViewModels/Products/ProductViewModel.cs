@@ -10,6 +10,7 @@ namespace ECommerce.Web.ViewModels.Products
 {
     public class ProductViewModel : IMapFrom<Product>
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Value { get; set; }

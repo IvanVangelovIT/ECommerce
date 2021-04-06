@@ -8,8 +8,8 @@ namespace ECommerce.Web.ViewModels.Products
 {
     public class ProductsViewModel
     {
-        public IEnumerable<ProductViewModel> Products;
+        public IEnumerable<ProductViewModel> Products { get; set; }
+        public ProductViewModel Product { get; set; }
 
-        public ProductViewModel Product;
     }
 }

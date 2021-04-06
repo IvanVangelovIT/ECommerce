@@ -23,8 +23,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Web.ViewModels", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Services.Mapping", "ECommerce.Services.Mapping\ECommerce.Services.Mapping.csproj", "{588FC7FA-5498-4E2B-BDAF-7B7E87510DF1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "React", "React", "{D4E777BD-8967-4936-B2DF-E81083B25533}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

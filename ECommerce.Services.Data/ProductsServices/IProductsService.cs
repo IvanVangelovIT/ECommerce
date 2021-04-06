@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ECommerce.Web.ViewModels.Products;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,11 @@ namespace ECommerce.Services.Data.ProductsServices
 {
     public interface IProductsService
     {
-       Task Create(string Name, string Description, decimal Value);
+       Task<ProductViewModel> Create(string Name, string Description, decimal Value);
        IEnumerable<T> GetAll<T>(int? count = null);
+       Task<bool> Delete(int? id);
+       Task<T> GetById<T>(int id);
+
 
     }
 }

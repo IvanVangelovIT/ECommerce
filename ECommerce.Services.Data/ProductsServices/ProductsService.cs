@@ -1,6 +1,7 @@
 ﻿using ECommerce.Data;
 using ECommerce.Data.Models.Products;
 using ECommerce.Services.Mapping;
+using ECommerce.Web.ViewModels.Products;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -18,7 +19,7 @@ namespace ECommerce.Services.Data.ProductsServices
         {
             _context = context;
         }
-        public async Task Create(string Name, string Description, decimal Value)
+        public async Task<ProductViewModel> Create(string Name, string Description, decimal Value)
         {
             var product = new Product()
             {
@@ -29,6 +30,24 @@ namespace ECommerce.Services.Data.ProductsServices
             
             await this._context.AddAsync(product);
             await this._context.SaveChangesAsync();
+
+            var viewModel = new ProductViewModel
+            { 
+                Id = product.Id,
+                Name = product.Name,
+                Description = product.Description,
+            };
+
+            return viewModel;
+        }
+
+        public async Task<bool> Delete(int? id)
+        {
+            var product = await this._context.Products.FirstOrDefaultAsync(x=> x.Id == id);
+
+            this._context.Remove(product);
+
+            return true;
         }
 
         public IEnumerable<T> GetAll<T>(int? count = null)
@@ -45,6 +64,26 @@ namespace ECommerce.Services.Data.ProductsServices
             }
 
             return query.To<T>().ToList();
+        }
+
+        public async Task<T> GetById<T>(int id)
+        {
+            //var product = await _context.Products.Where(x => x.Id == id).Select(x => new ProductViewModel
+            //{
+            //    Id = x.Id,
+            //    Name = x.Name,
+            //    Description = x.Description,
+            //    Value = x.Value,
+
+            //}).FirstOrDefaultAsync();
+
+            var product = await this._context
+                .Products
+                .Where(x => x.Id == id)
+                .To<T>()
+                .FirstAsync();
+
+            return product;
         }
     }
 }

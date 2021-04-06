@@ -193,6 +193,9 @@
               },
               "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
                 "projectPath": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj"
+              },
+              "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj"
               }
             }
           }
@@ -370,6 +373,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj": {
+                "projectPath": "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj"
+              },
               "D:\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
                 "projectPath": "D:\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
               },
@@ -414,6 +420,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

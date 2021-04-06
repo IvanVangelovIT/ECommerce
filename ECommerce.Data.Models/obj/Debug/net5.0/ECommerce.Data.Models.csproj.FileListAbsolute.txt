@@ -10,3 +10,15 @@ C:\Users\IT\source\repos\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\EComme
 C:\Users\IT\source\repos\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.dll
 C:\Users\IT\source\repos\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ref\ECommerce.Data.Models.dll
 C:\Users\IT\source\repos\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.pdb
+D:\ECommerce\ECommerce.Data.Models\bin\Debug\net5.0\ECommerce.Data.Models.deps.json
+D:\ECommerce\ECommerce.Data.Models\bin\Debug\net5.0\ECommerce.Data.Models.dll
+D:\ECommerce\ECommerce.Data.Models\bin\Debug\net5.0\ref\ECommerce.Data.Models.dll
+D:\ECommerce\ECommerce.Data.Models\bin\Debug\net5.0\ECommerce.Data.Models.pdb
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.csprojAssemblyReference.cache
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.AssemblyInfo.cs
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.dll
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ref\ECommerce.Data.Models.dll
+D:\ECommerce\ECommerce.Data.Models\obj\Debug\net5.0\ECommerce.Data.Models.pdb

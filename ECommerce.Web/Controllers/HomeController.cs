@@ -32,9 +32,10 @@ namespace ECommerce.Web.Controllers
             return View(viewModel);
         }
 
-        public async Task<IActionResult> Post(ProductViewModel model)
+        public async Task<IActionResult> Post(ProductsViewModel model)
         {
-            await productService.Create(model.Name, model.Description, model.Value);
+
+            await productService.Create(model.Product.Name, model.Product.Description, model.Product.Value);
             return RedirectToAction(nameof(Index));
         }
         public IActionResult Privacy()
