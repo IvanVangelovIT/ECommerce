@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuQ2wWgGYqwd6pXkhmiJLDrF2zhVa1cstlorTQqrhFFv7bz92+qCiWMA1KrQe6h+Toy4V8hEWD4X5tS5pFvzXg==",
+  "dgSpecHash": "qLAEPDXCoagzXACd2VfocGhzQF+3RSgy2Avo6il9yD/rns5Y1vo5gjLAh+Df48LxTf9vKoqaDAdxlVOgBc0b/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

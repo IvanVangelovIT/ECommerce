@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IkiKxN3DnpIvHRp/1FSPX0Em4Ju/phe9jvEiCQLFGc2qb0NoOUjhcn98h1Bf32giR7B98N3sqb92E8L3lkfyhQ==",
+  "dgSpecHash": "LYKvu6PpG+ySAu2yczdY1guijlNfWpUdaV1OylU94+aZBDPBjkj9v62EQHEVLRcYd4aYsVFBtt57RxdMke9KBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

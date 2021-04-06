@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EULg8hmcKXBOmUZrV857HghMmQPObAL3efJsOGv6ugLmlCBiTUuNI4CxF0eGw5mSGmjrB5QUBJjCkxVTzoC/Aw==",
+  "dgSpecHash": "o2PzpOlNuZG6sbcRfapVsCdz5dmn9rEX8gVkawY/6YeV/dNogkZ8pbNfq7TyJUy0DRlOeXTZbH7T//PquwNErg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wTKovfoWf11nYeYQ70QsmxajTy6mHS0dXJ3UjhGw2XypgWE4NnTVWNMjA/xk7NRjkyWUzXCwcf/i3dacw7zGfw==",
+  "dgSpecHash": "Os48GmGwn+n15tomX1eTxbi/cL3RorU1cf21QEsd3CKk29b6igsH1zafE9IE8yFkcsxcN5ZQjCYXpCUpZFB4+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

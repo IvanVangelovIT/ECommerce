@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {}
+    "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
+    "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
+        "projectUniqueName": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
         "projectName": "ECommerce.Services.Mapping",
-        "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
+        "projectPath": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\obj\\",
+        "outputPath": "D:\\ECommerce\\ECommerce.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

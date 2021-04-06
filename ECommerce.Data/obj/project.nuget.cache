@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKEzTS+QaFdkpHHyfyagBJrOAd3Ivlh/aa5AnhmQOCa7pABSqF/KPcZFepqrnpOrH34vd9//V3iFTF/zvSvRSA==",
+  "dgSpecHash": "5wx33KS7T5xm8NRXEvwqAXl5DwZRpV5zHAQhVMk3z4ejyJ6sCxgHNwcm0uD9l0yDUoYUP2T9AgrcHAvZG0FDrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

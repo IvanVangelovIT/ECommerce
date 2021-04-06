@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj": {}
+    "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj": {
+    "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
+        "projectUniqueName": "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
         "projectName": "ECommerce.Data.Models",
-        "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
+        "projectPath": "D:\\ECommerce\\ECommerce.Data.Models\\ECommerce.Data.Models.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data.Models\\obj\\",
+        "outputPath": "D:\\ECommerce\\ECommerce.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

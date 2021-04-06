@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gomHdsFPNJiwV/Nj1k0bDUjI97ISOtQOFRreIsJtdhoszYapd7do4qdUR0lrLsDG3X9EJb4E1lvqjpUfksX+fQ==",
+  "dgSpecHash": "e8Clfh1klOieC/PF+Tsg9S24UrIrtVaVbmETUTfnZsvdLa1oBFTfK5SgiNiX/37VK/+I94zg+jVEzZJSb/FI4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj",
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

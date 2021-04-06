@@ -6522,11 +6522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
+      "projectUniqueName": "D:\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
       "projectName": "ECommerce.Web",
-      "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
+      "projectPath": "D:\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web\\obj\\",
+      "outputPath": "D:\\ECommerce\\ECommerce.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6543,17 +6543,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
-              "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
+            "D:\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+              "projectPath": "D:\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
             },
-            "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj"
+            "D:\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj": {
+              "projectPath": "D:\\ECommerce\\ECommerce.Services.Data\\ECommerce.Services.Data.csproj"
             },
-            "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
-              "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj"
+            "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj": {
+              "projectPath": "D:\\ECommerce\\ECommerce.Services.Mapping\\ECommerce.Services.Mapping.csproj"
             },
-            "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\IT\\source\\repos\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj"
+            "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj": {
+              "projectPath": "D:\\ECommerce\\ECommerce.Web.ViewModels\\ECommerce.Web.ViewModels.csproj"
             }
           }
         }
