@@ -1,0 +1,53 @@
+﻿
+<div id="app">
+    <div class="columns">
+        <div class="column is-3">
+            <div class="menu">
+                <p class="menu-label">Admin</p>
+                <ul class="menu-list">
+                    <li>Products</li>
+                    <li>Orders</li>
+                    <li>Stock</li>
+                </ul>
+            </div>
+        </div>
+        <div class="column is-9">
+
+            <button v-on:click="getProducts">Get products</button>
+
+            <!--<table class="table">-->
+                @*<tr v-for="(product, index) in products">*@
+                <!--<tr v-for="(product, index) in products">
+                    <td>{product.id}}</td>
+                    <td>{product.name}}</td>
+                    <td>{product.description}}</td>
+                    <td><a @@click="editProduct(product, index)">Edit</a></td>
+                    <td><a @@click="deleteProduct(product.id)">Remove</a></td>
+                </tr>
+            </table>-->
+
+            <div>
+                <p v-for="(product, index) in products">
+                    {{product.id}} - {{product.name}} - {{product.description}}
+                    <a @@click="editProduct(product, index)">Edit</a>
+                    <a @@click="deleteProduct(product.id, index)">Remove</a>
+                </p>
+            </div>
+            <div>
+                <input v-model="productModel.name" />
+                <input v-model="productModel.description" />
+                <input v-model="productModel.value" />
+                <button @@click="createProduct" v-if="!productModel.id">Create Product</button>
+                <button @@click="updateProduct" v-else>Update Product</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts{
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="~/js/admin/main.js"></script>
+}

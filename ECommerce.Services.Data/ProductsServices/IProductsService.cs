@@ -14,6 +14,6 @@ namespace ECommerce.Services.Data.ProductsServices
        Task<bool> Delete(int? id);
        Task<T> GetById<T>(int id);
 
-
+        Task<ProductViewModel> Edit<T>(int Id, string Name, string Description, decimal Value);
     }
 }

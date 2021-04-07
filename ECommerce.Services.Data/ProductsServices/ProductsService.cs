@@ -46,8 +46,30 @@ namespace ECommerce.Services.Data.ProductsServices
             var product = await this._context.Products.FirstOrDefaultAsync(x=> x.Id == id);
 
             this._context.Remove(product);
+            await this._context.SaveChangesAsync();
 
             return true;
+        }
+
+        public async Task<ProductViewModel> Edit<T>(int Id, string Name, string Description, decimal Value)
+        {
+            var viewModel = await this._context.Products
+                 .FirstOrDefaultAsync(x => x.Id == Id);
+
+            viewModel.Name = Name;
+            viewModel.Description = Description;
+            viewModel.Value = Value;
+
+            await this._context.SaveChangesAsync();
+
+            return new ProductViewModel
+            {
+                Id = Id,
+                Name = viewModel.Name,
+                Description = viewModel.Description,
+                Value = viewModel.Value,
+            };
+             
         }
 
         public IEnumerable<T> GetAll<T>(int? count = null)

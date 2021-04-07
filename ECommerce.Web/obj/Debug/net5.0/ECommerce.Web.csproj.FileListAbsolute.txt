@@ -271,3 +271,4 @@ D:\ECommerce\ECommerce.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports
 D:\ECommerce\ECommerce.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\ECommerce\ECommerce.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\GetAll.cshtml.g.cs
 D:\ECommerce\ECommerce.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Create.cshtml.g.cs
+D:\ECommerce\ECommerce.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
